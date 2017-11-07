@@ -4,7 +4,7 @@
 <html>
     <jsp:include page="/WEB-INF/content/admin/commom/header.jsp" />
     <div id="container">
-		 <p><iframe src="http://www.51yd.org/news.html" style="border: none;width:980px;height:500px"></iframe></p>
+		 <p><iframe src="http://www.xs17k.com/news.html" style="border: none;width:980px;height:500px"></iframe></p>
     </div>
     <jsp:include page="/WEB-INF/content/admin/commom/footer.jsp" />
 </body>

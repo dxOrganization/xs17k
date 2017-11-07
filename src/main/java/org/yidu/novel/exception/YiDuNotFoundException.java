@@ -3,12 +3,12 @@ package org.yidu.novel.exception;
 /**
  * 
  * <p>
- * 易读系统用异常
+ * 小说一起看系统用异常
  * </p>
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 public class YiDuNotFoundException extends RuntimeException {
     /**

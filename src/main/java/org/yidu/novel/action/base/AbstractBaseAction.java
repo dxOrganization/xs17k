@@ -28,13 +28,13 @@ import com.opensymphony.xwork2.interceptor.ValidationWorkflowAware;
 /**
  * 
  * <p>
- * 易读系统画面基类<br>
+ * 小说一起看画面基类<br>
  * 定义各种服务
  * </p>
  * Copyright(c) 2013 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 @Results({ @Result(name = AbstractBaseAction.FREEMARKER_ERROR, location = "/themes/${themeName}/pc/error.ftl", type = "freemarker"),
         @Result(name = AbstractBaseAction.FREEMARKER_MESSAGE, type = "freemarker", location = "/themes/${themeName}/pc/message.ftl"),

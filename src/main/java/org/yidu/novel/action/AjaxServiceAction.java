@@ -39,8 +39,8 @@ import org.yidu.novel.utils.Utils;
  * </p>
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 @Action(value = "ajaxService")
 public class AjaxServiceAction extends AbstractPublicBaseAction {
@@ -56,8 +56,8 @@ public class AjaxServiceAction extends AbstractPublicBaseAction {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     class ProccessType {
         /**
@@ -94,7 +94,7 @@ public class AjaxServiceAction extends AbstractPublicBaseAction {
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
      * @version 1.1.6
-     * @author shinpa.you
+     * @author lei.c
      */
     class ReturnCode {
         /**
