@@ -389,7 +389,7 @@ public class UrlRewriteFilter implements Filter {
     public void doFilter(final ServletRequest request, final ServletResponse response, final FilterChain chain)
             throws IOException, ServletException {
 
-        // 易读专用开关设置
+        // 小说一起看专用开关设置
         if (!YiDuConstants.yiduConf.getBoolean("cleanUrl", true)) {
             chain.doFilter(request, response);
             return;

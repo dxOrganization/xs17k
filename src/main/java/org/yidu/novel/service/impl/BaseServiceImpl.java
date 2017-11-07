@@ -14,8 +14,8 @@ import org.springframework.jdbc.core.JdbcTemplate;
  * </p>
  * Copyright(c) 2013 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 public class BaseServiceImpl {
 
@@ -32,7 +32,7 @@ public class BaseServiceImpl {
      * 初始化数据源
      * 
      * @param yiduDataSource
-     *            易读用数据源
+     *            小说一起看用数据源
      */
     @Autowired
     public void setYiduDataSource(final DataSource yiduDataSource) {

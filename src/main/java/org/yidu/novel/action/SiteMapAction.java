@@ -15,8 +15,8 @@ import org.yidu.novel.entity.TArticle;
  * </p>
  * Copyright(c) 2013 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 @Action(value = "siteMap")
 public class SiteMapAction extends AbstractPublicListBaseAction {

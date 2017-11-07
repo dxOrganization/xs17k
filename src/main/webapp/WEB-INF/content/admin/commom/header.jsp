@@ -4,9 +4,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Style-type" content="text/css" />
-<title>易读小说管理后台</title>
-<meta name="keywords" content="易读小说系统管理后台" />
-<meta name="description" content="易读小说系统是开源的JAVA项目，可以帮你快速搭建自己的小说系统!" />
+<title>小说一起看管理后台</title>
+<meta name="keywords" content="小说一起看管理后台" />
+<meta name="description" content="小说一起看是免费小说网站!" />
 <link rel="stylesheet" type="text/css" href="<s:property value="contextPath" />/css/common.css">
 <link rel="stylesheet" type="text/css" href="<s:property value="contextPath" />/css/styles.css">
 <script type="text/javascript" src="<s:property value="contextPath" />/js/lib/jquery-1.7.1.min.js"></script>
@@ -21,7 +21,7 @@
       <nav class="site-navigation cf">
       <a class="home" href="<s:property value="contextPath" />/"><s:text name="label.admin.navi.home" /></a>
       <a href="<s:property value="contextPath" />/admin/index"><s:text name="label.admin.navi.adminHome" /></a>
-      <a href="http://www.51yd.org/" target="_blank"><s:text name="label.admin.navi.forum" /></a>
+      <a href="http://www.xs17k.com/" target="_blank"><s:text name="label.admin.navi.forum" /></a>
       </nav>
       <div class="hd-follow" style="width:300px;align:right" >
       <span id="checklogin">

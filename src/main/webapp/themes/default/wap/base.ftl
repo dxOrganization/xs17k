@@ -9,7 +9,7 @@
 <#if titleContent?exists>  
       <@titleContent/>
 </#if>
-<meta name="author" content="www.51yd.org"/>
+<meta name="author" content="www.xs17k.com"/>
 <link rel="stylesheet" type="text/css" href="${contextPath}/themes/${themeName}/wap/css/mobilecss.css" rel="stylesheet" />
 <script src="${contextPath}/themes/${themeName}/wap/js/lib/jquery-2.1.1.min.js"></script>
 <script src="${contextPath}/themes/${themeName}/wap/js/common.js"></script>

@@ -31,9 +31,9 @@ import com.google.gson.reflect.TypeToken;
  * </p>
  * Copyright(c) 2013 YiDu-Novel. All rights reserved.
  * 
- * version 1.1.9
+ * version 1.0.1
  * 
- * @author shinpa.you
+ * @author lei.c
  */
 public class UpgradeAction extends AbstractAdminBaseAction {
     /**
@@ -51,7 +51,7 @@ public class UpgradeAction extends AbstractAdminBaseAction {
      */
     public static final String URL = NAMESPACE + "/" + NAME;
 
-    public static final String SITE_URL = "http://www.51yd.org/yiduupgrade/";
+    public static final String SITE_URL = "http://www.xs17k.com/yiduupgrade/";
 
     private String uv;
 

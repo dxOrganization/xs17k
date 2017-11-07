@@ -26,7 +26,7 @@ import org.yidu.novel.constant.YiDuConstants;
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
  * @version 1.1.5
- * @author shinpa.you
+ * @author lei.c
  */
 public class ForbidFilter implements Filter {
 

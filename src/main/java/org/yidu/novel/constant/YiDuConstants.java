@@ -8,16 +8,16 @@ import org.apache.commons.configuration.PropertiesConfiguration;
 /**
  * 
  * <p>
- * 易读静态定义
+ * 小说一起看静态定义
  * </p>
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 public class YiDuConstants {
     /**
-     * 易读配置文件
+     * 小说一起看配置文件
      */
     public static PropertiesConfiguration yiduConf;
     /**
@@ -100,8 +100,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class UserGroup {
 
@@ -154,8 +154,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class ResponseStatus {
 
@@ -177,8 +177,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class BlockTarget {
         /**
@@ -223,8 +223,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class ImageType {
         /**
@@ -248,8 +248,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class BlockType {
         /**
@@ -294,8 +294,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class Pagetype {
 
@@ -424,8 +424,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class UserType {
 
@@ -459,7 +459,7 @@ public class YiDuConstants {
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
      * @version 1.1.6
-     * @author shinpa.you
+     * @author lei.c
      */
     public static final class PermissionType {
 
@@ -513,8 +513,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class ImgageMateType {
         /**
@@ -583,8 +583,8 @@ public class YiDuConstants {
      * </p>
      * Copyright(c) 2014 YiDu-Novel. All rights reserved.
      * 
-     * @version 1.1.9
-     * @author shinpa.you
+     * @version 1.0.1
+     * @author lei.c
      */
     public static final class Order {
         /**

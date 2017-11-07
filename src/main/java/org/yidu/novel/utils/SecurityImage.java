@@ -14,8 +14,8 @@ import org.apache.commons.logging.LogFactory;
  * 验证码生成器类，可生成数字、大写、小写字母及三者混合类型的验证码。 支持自定义验证码字符数量； 支持自定义验证码图片的大小； 支持自定义需排除的特殊字符；
  * 支持自定义干扰线的数量； 支持自定义验证码图文颜色
  * 
- * @author shinpa.you
- * @version 1.1.9
+ * @author lei.c
+ * @version 1.0.1
  */
 public class SecurityImage {
     /**

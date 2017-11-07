@@ -45,7 +45,7 @@ import freemarker.template.Template;
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
  * @version 1.1.5
- * @author shinpa.you
+ * @author lei.c
  */
 public class SendSubscribeMailJob extends QuartzJobBean {
 

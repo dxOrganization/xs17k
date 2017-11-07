@@ -96,7 +96,7 @@
 <div class="links">
     <h5>友情链接</h5>
     <ul>
-        <li><a href='http://www.51yd.org' target='_blank' title="易读小说系统">易读小说系统</a> </li>
+        <li><a href='http://www.xs17k.com' target='_blank' title="小说一起看">小说一起看网</a> </li>
     </ul>
 </div>
 <div class="foot">

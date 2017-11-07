@@ -24,18 +24,18 @@
 <!--
     <rule>
         <name>Domain Name Check</name>
-        <condition name="host" operator="notequal">www.51yd.org</condition>
-        <condition name="host" operator="notequal">m.51yd.org</condition>
+        <condition name="host" operator="notequal">www.xs17k.com</condition>
+        <condition name="host" operator="notequal">m.xs17k.com</condition>
         <from>^/(.*)</from>
-        <to type="permanent-redirect">http://www.51yd.org/$1</to>
+        <to type="permanent-redirect">http://www.xs17k.com/$1</to>
     </rule>
 
     <rule>
         <name>USER AGENT Check</name>
-        <condition name="host" operator="notequal">m.51yd.org</condition>
+        <condition name="host" operator="notequal">m.xs17k.com</condition>
         <condition name="user-agent">(android|blackberry|googlebot-mobile|iemobile|iphone|ipod|opera mobile)</condition>
         <from>^/(.*)</from>
-        <to type="redirect">http://m.51yd.org/$1</to>
+        <to type="redirect">http://m.xs17k.com/$1</to>
     </rule>
  -->
 

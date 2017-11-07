@@ -12,12 +12,12 @@ import com.google.gson.Gson;
 
 /**
  * <p>
- * 易读系统额外工具---升级Version文件制作
+ * 小说一起看系统额外工具---升级Version文件制作
  * </p>
  * Copyright(c) 2016 YiDu-Novel. All rights reserved.
  * 
- * @version 1.1.9
- * @author shinpa.you
+ * @version 1.0.1
+ * @author lei.c
  */
 public class UpgradeTools {
 
@@ -49,7 +49,7 @@ public class UpgradeTools {
         // file3.setPath("/WEB-INF/classes/language/package.properties");
         // file3.setType(UpgradeBean.FileType.PROPERTIES);
         // file3.setKey("label.system.support");
-        // file3.setContent("Powered by <a href=\"http://www.51yd.org\">易读小说系统  V1.2.0 Beta</a>");
+        // file3.setContent("Powered by <a href=\"http://www.xs17k.com\">小说一起看  V1.0.1</a>");
         // upList.add(file3);
 
         UpgradeBean file4 = new UpgradeBean();

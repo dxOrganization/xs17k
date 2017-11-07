@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Style-type" content="text/css" />
 <title><s:text name="label.install.page.title" /></title>
-<meta name="author" content="www.51yd.org"/> 
+<meta name="author" content="www.xs17k.com"/>
 <link rel="stylesheet" type="text/css" href="<s:property value="contextPath" />/css/board.css">
 <link rel="stylesheet" type="text/css" href="<s:property value="contextPath" />/css/common.css">
 <link rel="stylesheet" type="text/css" href="<s:property value="contextPath" />/css/styles.css">

@@ -23,7 +23,7 @@ import com.opensymphony.xwork2.interceptor.AbstractInterceptor;
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
  * @version 1.1.5
- * @author shinpa.you
+ * @author lei.c
  */
 public class GenerateHtmlFileInterceptor extends AbstractInterceptor {
     /**

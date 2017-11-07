@@ -8,7 +8,7 @@ package org.yidu.novel.dto;
  * Copyright(c) 2014 YiDu-Novel. All rights reserved.
  * 
  * @version 1.1.6
- * @author shinpa.you
+ * @author lei.c
  */
 public class CategoryCountDTO {
 

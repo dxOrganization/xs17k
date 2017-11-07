@@ -25,7 +25,7 @@
 <#if titleContent?exists>  
       <@titleContent/>
 </#if>
-<meta name="author" content="www.51yd.org"/>
+<meta name="author" content="www.xs17k.com"/>
 <link rel="stylesheet" type="text/css" href="${contextPath}/themes/${themeName}/pc/css/common.css">
 <#if customizeimport?exists>  
       <@customizeimport/>
