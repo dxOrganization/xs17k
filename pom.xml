@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.yidu.novel</groupId>
-    <artifactId>YiDuNovel</artifactId>
+    <groupId>com.xs17k</groupId>
+    <artifactId>xs17k</artifactId>
     <packaging>war</packaging>
     <version>1.0.1-BETA</version>
-    <name>YiDu Novel System</name>
+    <name>xs17k System</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -234,7 +234,7 @@
 
     </dependencies>
     <build>
-        <finalName>YiDuNovel</finalName>
+        <finalName>xs17k</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
