@@ -96,3 +96,5 @@ Icon
 *_copy.html
 *_copy.htm
 *.pdb
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/lib/
